@@ -34,11 +34,11 @@
 </div>
 
 
-<br>
+<hr>
+
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-dv&show_icons=true&theme=dracula)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-dv&show_icons=true&theme=dracula)
-
-<br>
+<hr>
 
 ![Snake animation](https://github.com/pedro-dv/pedro-dv/raw/output/github-contribution-grid-snake.svg)
