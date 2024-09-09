@@ -37,8 +37,8 @@
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-dev&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-dv&show_icons=true&theme=dracula)
 
 <br>
 
-![Snake animation](https://github.com/pedro-dev/pedro-dev/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pedro-dv/pedro-dv/raw/output/github-contribution-grid-snake.svg)
