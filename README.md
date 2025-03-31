@@ -1,4 +1,4 @@
-# Eai, Eu sou o Pedro Menezes! 👋✨
+# Eai, Eu sou o Pedro Menezes! 👋
 
 🎉 Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou focado em projetos de desenvolvimento web utilizando **Django** e **React**.
 
